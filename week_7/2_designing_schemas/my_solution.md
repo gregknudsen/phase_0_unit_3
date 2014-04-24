@@ -5,19 +5,19 @@
 
 
 ## Release 0: Student Roster Schema
-<!-- display your image inline here -->
+http://minus.com/i/9ljrSZUnnGS2
 
 
 ## Release 1: One to Many Schema
-<!-- display your image inline here -->
+http://minus.com/i/tsrLPSv1XrvG
 
 
 ## Release 2: One to One Schema
-<!-- display your image inline here -->
+http://minus.com/i/bjqq3hV6h9IxM
 
 
 ## Release 3: Many to Many Schema
-<!-- display your image inline here -->
+http://minus.com/i/tNH6AmfywB2M
 
 
 ## Release 4: Design your own Schema
