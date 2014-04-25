@@ -9,7 +9,7 @@
 
 
 ## Release 1: One to Many Schema
-http://minus.com/i/tsrLPSv1XrvG
+<img src="http://minus.com/i/tsrLPSv1XrvG">
 
 
 ## Release 2: One to One Schema
