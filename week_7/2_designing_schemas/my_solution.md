@@ -5,8 +5,7 @@
 
 
 ## Release 0: Student Roster Schema
-![alt text](/Users/gregknudsen/greg_dev/dev_bootcamp/Phase_0/phase_0_unit_3/week_7/2_designing_schemas.png "Student Roster")
-
+<a href="http://minus.com/i/9ljrSZUnnGS2">Student Roster</a>
 
 ## Release 1: One to Many Schema
 <a href="http://minus.com/i/tsrLPSv1XrvG">One to Many</a>
