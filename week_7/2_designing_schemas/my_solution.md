@@ -5,7 +5,7 @@
 
 
 ## Release 0: Student Roster Schema
-(http://minus.com/i/9ljrSZUnnGS2 "Student Roster")
+![alt text](http://minus.com/i/9ljrSZUnnGS2 "Student Roster")
 
 
 ## Release 1: One to Many Schema
