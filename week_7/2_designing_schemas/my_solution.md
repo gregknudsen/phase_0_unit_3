@@ -5,30 +5,30 @@
 
 
 ## Release 0: Student Roster Schema
-<img src="http://minus.com/i/9ljrSZUnnGS2">
+<a href="http://minus.com/i/9ljrSZUnnGS2">Student Roster</a>
 
 
 ## Release 1: One to Many Schema
-<img src="http://minus.com/i/tsrLPSv1XrvG">
+<a href="http://minus.com/i/tsrLPSv1XrvG">One to Many</a>
 
 
 ## Release 2: One to One Schema
-http://minus.com/i/bjqq3hV6h9IxM
+<a href="http://minus.com/i/bjqq3hV6h9IxM">One to One</a>
 
 
 ## Release 3: Many to Many Schema
-http://minus.com/i/tNH6AmfywB2M
+<a href="http://minus.com/i/tNH6AmfywB2M">Many to Many</a>
 
 
 ## Release 4: Design your own Schema
 Description of what you're modeling: 
 One to one: Just a simple schema demonstrating there is one order per customer.
 
-http://minus.com/i/DxYUEMglEoUr
+<a href="http://minus.com/i/DxYUEMglEoUr">My One to One</a>
 
 Many to many: Using the same basic idea of the author schema, I just put in architects for world structures.
 
-http://minus.com/i/A6AShd1wipPx
+<a href="http://minus.com/i/A6AShd1wipPx">My Many to Many</a>
 
 ## Release 5: Reflection
 
