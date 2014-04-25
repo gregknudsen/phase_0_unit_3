@@ -7,7 +7,7 @@ Photo, Header, Name, Location, Website, Bio, Facebook
 tweet, photo, location
 
 ## Release 2: Explain the relationship
-The relationship between `users` and `tweets` is: user(implied), photo and location</br>
+The relationship between `users` and `tweets` is: user(implied), photo and location.
 I say user because only the user will be able to tweet from this account. As for the other two, those are the only fields that match here. Obvisouly, these fields could be identical, OR they could be different every time.
 
 ## Release 3: Schema Design
