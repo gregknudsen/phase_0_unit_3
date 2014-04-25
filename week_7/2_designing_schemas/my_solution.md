@@ -5,7 +5,7 @@
 
 
 ## Release 0: Student Roster Schema
-<img=url("http://minus.com/i/9ljrSZUnnGS2")>
+<img src="http://minus.com/i/9ljrSZUnnGS2">
 
 
 ## Release 1: One to Many Schema
