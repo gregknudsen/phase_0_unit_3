@@ -11,7 +11,7 @@ The relationship between `users` and `tweets` is: user(implied), photo and locat
 I say user because only the user will be able to tweet from this account. As for the other two, those are the only fields that match here. Obvisouly, these fields could be identical, OR they could be different every time.
 
 ## Release 3: Schema Design
-<a href="http://minus.com/i/Z6USEcM6YDGR">Schema</a>
+<a href="http://minus.com/i/bygIZvifVQkwX">Schema</a>
 
 ## Release 4: SQL Statements
 <!-- Include your SQL Statements. How can you make markdown files show blocks of code? -->
