@@ -47,6 +47,7 @@
 #   def add_item(item,quantity=1)
 #     @list[item] = quantity 
 #   end
+<<<<<<< HEAD
 
 #   def remove_item(item)
 #     if @list.include?(item)
@@ -65,8 +66,57 @@
 #   end
 
 # end
+=======
 
+#   def remove_item(item)
+#     if @list.include?(item)
+#       @list.delete(item)
+#     else
+#       p "These aren't the droids your looking for..."
+#     end
+#   end  
+    
+#   def display_items
+#     if @list.empty? 
+#       puts "Your list contains no items!"
+#     else
+#       @list.each { |key,value| puts "#{key}: #{value}\n" }
+#     end
+#   end
+>>>>>>> FETCH_HEAD
 
+# end
+
+# REFACTOR
+# Wound up refactoring and playing with driver code instead of refactoring 
+# script. Sorry :+)
+class List
+  def initialize
+    @list = Hash.new
+  end
+  
+  def add_item(item,quantity=1)
+    @list[item] = quantity 
+  end
+
+<<<<<<< HEAD
+  def remove_item(item)
+    if @list.include?(item)
+      @list.delete(item)
+    else
+      p "These aren't the droids your looking for..."
+    end
+  end  
+    
+  def display_items
+    if @list.empty? 
+      puts"Your list contains no items!"
+    else
+      @list.each { |key,value| puts "#{key}: #{value}" }
+    end
+  end
+
+=======
 # REFACTOR
 # Wound up refactoring and playing with driver code instead of refactoring 
 # script. Sorry :+)
@@ -95,6 +145,7 @@ class List
     end
   end
 
+>>>>>>> FETCH_HEAD
 end
 
 # DRIVER CODE GOES HERE. 
@@ -116,6 +167,9 @@ p shopping_list.remove_item("apple")
 p shopping_list.display_items.include?("orange")
 
 p shopping_list.remove_item("steaks") == "These aren't the droids your looking for..."
+<<<<<<< HEAD
+=======
  
+>>>>>>> FETCH_HEAD
  
  
