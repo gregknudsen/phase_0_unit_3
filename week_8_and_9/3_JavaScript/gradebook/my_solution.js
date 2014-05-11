@@ -7,7 +7,7 @@ variables match (i.e., 'Joseph' is the first element in students; his scores are
 
 Do not alter the students and scores code.
 
-I worked on this challenge [by myself, with:]
+I worked on this challenge by myself.
 
 */
 
@@ -27,6 +27,51 @@ var scores = [ [80, 70, 70, 100],
 // Write your code below.
 
 
+var average = function(array) {
+  var sum = 0;
+  var i = 0;
+  for(i = 0; i < array.length; i++) {
+    sum += array[i];
+  }
+  var average = sum / array.length;
+  return average;
+};
+
+//gradebook = {}
+
+var gradebook = {
+  Joseph:     {testScores:scores[0]},
+  Susan:      {testScores:scores[1]},
+  William:    {testScores:scores[2]},
+  Elizabeth:  {testScores:scores[3]},
+
+  // addScore: function(name, grade) {
+  //   gradebook[name].testScores.push(grade);
+  // }.
+
+  // getAverage: function(name){
+  //   return average(gradebook[name].testScores);
+  // }
+//}
+
+// var gradebook = {
+//   Joseph: {testScores: scores[0]},
+//   Susan: {testScores:scores[1]},
+//   William: {testScores:scores[2]},
+//   Elizabeth: {testScores:scores[3]},
+
+  addScore: function(name,grade){
+    gradebook[name].testScores.push(grade);
+  },
+
+  getAverage: function(name){
+    return average(gradebook[name].testScores);
+  }
+};
+
+
+
+
 
 
 
@@ -34,7 +79,11 @@ var scores = [ [80, 70, 70, 100],
 // __________________________________________
 // Refactored Solution
 
+gradebook = {};
 
+for(var i = 0; i < students; i++){
+  gradebook.students[i] = {testScores.scores[i]};
+};
 
 
 
@@ -43,6 +92,16 @@ var scores = [ [80, 70, 70, 100],
 
 // __________________________________________
 // Reflect
+
+/*
+
+I knew JS was going to be rusty, and I was right. I'll say it right now...I used one of my awesome cohort mate's code as a guide for this one. 
+Where to begin. Creating the object was easy - and I'm talking aboutline 40. Everything after that was sort of a 'have to look this up again' sort of thing.
+Finding the average clicked for me pretty quickly. Creating functions is still a bit of a crapshoot for me. I never know when to put 'var' in front of the 
+function. Also, just the general syntax is confusing. I also knew as I was adding each student to the object, there was a better way to do it that adding
+one at a time. So, again with a little help, I came up with lines 84-86. It'll come back. Looking forward to the rest of the challenges for JS to kick my butt.
+
+*/
 
 
 
