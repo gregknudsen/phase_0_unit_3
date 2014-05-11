@@ -81,3 +81,13 @@ assert { super_fizzbuzz([15,5,3,1]) == ['FizzBuzz', 'Buzz', 'Fizz', 1] }
 
 
 # 5. Reflection 
+
+=begin
+
+I worked on this challenge with Danielle even though she didn't need to. It took us a bit of time to
+figure out exactly what the rspec method 'random_input_array' was doing to make our assert statements work,
+but we eventually figured it out. The first choice of using if/else statements was pretty easy. Then we decided to
+create a case statement and that cleaned things up a little bit. I know there are many different ways to
+solve this challenge, but this was what we went with.
+
+=end
