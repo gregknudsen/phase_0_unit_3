@@ -1,6 +1,6 @@
 // U3.W8-9: Gradebook from Names and Scores
 
-// I worked on this challenge [by myself, with:]
+// I worked on this challenge with Danielle Adams.
 
 // These are the votes cast by each student. Do not alter these objects here.
 var votes = {
@@ -64,10 +64,18 @@ var officers = {
 }
 
 // Pseudocode
+/*
+
+create function that access votes for 'bob' for all offices
+
+*/
+
 
 
 // __________________________________________
 // Initial Solution
+
+var countVotes()
 
 
 
@@ -78,6 +86,15 @@ var officers = {
 // __________________________________________
 // Refactored Solution
 
+/*
+
+I nailed this one!! Okay, I know there's really nothing here, but I wanted to write this reflection because I did get together
+with Danielle. Because she had already done it, what ended up happening was that she went through her solution with me, explaining
+step by step what she did. This was incredibly helpful, as JS is by far my weakest skill right now. Having her walk through what she
+did started to click with me. I did not want to just copy her code here, so I thought I would write this reflections to let you know
+what I ended up doing.
+
+*/
 
 
 
