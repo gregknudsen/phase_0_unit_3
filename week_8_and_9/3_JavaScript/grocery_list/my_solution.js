@@ -55,3 +55,11 @@ var assert = function(object){
 
 
 // 5. Reflection 
+
+/*
+
+Clearly, there's still some work to do here. JS is by far my weakest skill at this point. I was able to work with Danielle on the next
+exercise, and that was very helpful. I would have loved to have paired more on these challenges, but my time was just so limited. I also
+didn't get JSFiddle to work either. I know I'll be diving into JS during DBC, and I will do my best to review when I know that's coming.
+
+*/
